@@ -1,7 +1,7 @@
 ## Hello 👋
 
-<p><a href="https://t.me/disagree_to_agree"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" height=25></a>
-<a href="https://t.me/disagree_to_agree"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<p><a href="https://t.me/disagree_to_agree"><img src="https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram" height=25></a>
+<a href="https://www.linkedin.com/in/daria-siasina-5b220813/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 Меня зовут Дарья, я начинающий аналитик данных, а здесь хранится:
